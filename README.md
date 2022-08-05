@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Carlos Portela.
+- 👀 I’m interested in solving problems, coding and subjects related to that.
+- 🌱 I’m currently learning HTML5, CSS3 and Git / GitHub.
